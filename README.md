@@ -2,16 +2,6 @@
 
 ## 📌 Overview
 This assignment consists of three Java programs demonstrating basic concepts such as string manipulation, matrix operations, and encapsulation.
-
-## 📂 Folder Structure
-Assignment-1/
-│── src/
-│   ├── StringAnalysis.java
-│   ├── MatrixOperations.java
-│   ├── BankingSystem.java
-│── README.md
-│── input_output_examples.txt
-
 ## 📜 Instructions
 1. **StringAnalysis.java** - Analyzes a given string and counts vowels, consonants, digits, and special characters.
 2. **MatrixOperations.java** - Performs addition, subtraction, and multiplication of matrices.
